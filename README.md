@@ -9,6 +9,6 @@ Simple hexadecimal viewer for Ghidra written in java
 4. Refresh and bind a key to it
 
 ## Usage
-Self explanatory, just set your byte row to your preffered size and you are done!
+Self explanatory, just set your byte row to your preffered size and you are done.
 
 ![Showcase](./media/showcase.png)
